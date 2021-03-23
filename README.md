@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title> This is one of my practices in The Odin Project </title>
+    <title>This is one of my practices in The Odin Project</title>
   </head>
   <body>
     <h1>Brayan Alexander Muñoz Example</h1>
