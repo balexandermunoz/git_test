@@ -1,0 +1,1 @@
+This is one of my practices in The Odin Project
